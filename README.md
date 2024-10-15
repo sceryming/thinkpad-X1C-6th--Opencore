@@ -19,7 +19,8 @@ Standing on the shoulders of giants! Based on the works of many great people.
 * [@daliansky](https://github.com/daliansky) for various hotpatches.  
 * [@velaar](https://github.com/velaar) for your continual support and contributions.  
 * [@Porco-Rosso](https://github.com/Porco-Rosso) putting up with my requests to test repo changes.  
-* [@MSzturc](https://github.com/MSzturc) for adding my requested features to ThinkpadAssistant.  
+* [@MSzturc](https://github.com/MSzturc) for adding my requested features to ThinkpadAssistant.
+* [@zxystd](https://github.com/OpenIntelWireless)An Intel Wi-Fi Adapter Kernel Extension for macOS, based on the OpenBSD Project.
 * paranoidbashthot and \x for the BIOS mod to unlocked Intel Advance Menu.
 
 
